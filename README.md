@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Stats -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilherme527&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" /> </br>
-</div>
+</div> -->
 <div align="center">
   
   ![snake gif](https://github.com/JoaoGuilherme527/JoaoGuilherme527/blob/output/github-snake-dark.svg)
